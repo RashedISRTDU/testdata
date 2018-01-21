@@ -5,4 +5,4 @@ We are a group of 40 peoples.
 
 GitHub is a known platform of sharing knowldge.
 
-$$ Y = \alpha + \beta\bm{X} + \epsilon $$
+__New Paragraph__
