@@ -1,2 +1,2 @@
 # testdata
-M\This is AST 532 class.
+This is AST 532 class.
